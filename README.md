@@ -1,1 +1,1 @@
-This is gyhwang's first git project!
+This is Ryan's first git project!
